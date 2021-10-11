@@ -1,9 +1,11 @@
 # Climate-Connect
 This project is made to be submitted to a hackathon named - Xd Climate Hackathon
 
-This project was made using simple html, css and javascript. Our main moto to create this project was to spread awareness among people of small age group, about climate change. This is a small educational website, which focuses on a quiz, which students can take and get the deeper knowledge of every question, even if they get the wrong answer. We have even created a youtube playlist, which will help them to learn more about climate change, in a visual way. The videos were made by one our team mate. 
+Climate connect is an online platform designed to be an educational resource for younger kids. The platform has a quiz game in which younger kids are able to learn critical facts about climate change. In addition to the quiz there are tons of additional educational resources embedded all throughout our website including websites where they can learn about topics covered in the quizzes and videos where they can listen and learn about climate change.
 
-I hope you like our project :)
+In addition to being a game and educational resource the website also generates revenue to be donated through use of Google Adsense. This is then donated to climate relief funds to help provide financial aid to those who have lost their homes or areas facing natural disaster.
+
+We hope you like our project :)
 
 ![image](https://user-images.githubusercontent.com/70958307/129880422-d99673cb-c92e-4c1b-a47c-56aab6d863b7.png)
 
